@@ -1,1 +1,0 @@
-words = ["Escada","Criança","Fralda","Leao","Passaro","Natacao","Banho","Musculação","Faca","Banana","Chave","Sapato","Relógio","Bolsa","Abraço","Beijo","Flores","Crianca","Bateria","Arco-Iris","Guarda chuva", "Carro","Moto","Colar","Brinco","Casa","Igreja","Macaco","Cha","Dancar","Sol","Arvore","Musica","Pizza","Sorvete","Onibus","Maca","Espelho","Guitarra","Livro"]
